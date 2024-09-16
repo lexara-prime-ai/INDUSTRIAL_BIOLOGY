@@ -35,3 +35,50 @@ They may contain other molecules, referred to as **coenzymes** such as FMN, smal
 **NOTE**: In the absence of an enzyme, some reactions would take longer than the age of the universe.
 
 * Some enzymes require **cofactors** or **coenzymes** (e.g. *heme, flavin*) or prosthetic groups (e.g. metal ions).
+
+## Flexible 'lock' and 'key'
+**Enzyme catalytic** cycles are *multistep* catalytic cycles i.e they involve the *binding* of reactants in the **enzyme active site** (*The region of an enzyme where substrate molecules bind and undergo a chemical reaction*).
+
+Substrates or reactants are **assembled** within the active site where the **chemical catalysis** can take place.
+
+The 2nd step of the catalytic cycle is the process of **bond making** and **bond breaking**, which is the catalytic part of the **reaction cycle**.
+
+Products are then **released** from the *active site* at the end of the catalytic cycle to enable another round of catalysis to proceed following **substrate binding**.
+
+*Chart Overview*
+```mermaid
+graph TD;
+    substrate_binding -->catalysis;
+    catalysis-->product_release;
+```
+* Many of these processes are facilitated by the natural flexibility, confirmational flexibility of enzyme molecules.
+
+**Confirmational Flexibility** is often required to optimally position substrates in the enzyme 
+active site and also to provide an optimal environment for catalysis *e.g. through the exclusion of water from the active site*.
+
+**NOTE** There are various models of enzyme catalysis that have been advanced over the years, that include this flexible behavior of enzyme molecules such as:
+
+* The induced-fit model of catalysis, where the exposure of an enzyme to a substrate, causes the active site of an enzyme to change shape in order to allow the enzyme substrate to bond, forming an **enzyme substrate complex**.
+
+## Green Chemistry "benign by design"
+Enzymes are ideal catalysts for the production of fine chemicals and pharmaceuticals due to their relatively *mild reaction conditions*, *high catalytic rate* and *specificity*.
+
+This maps nicely to the green chemistry agenda since industrial biotechnology can reduce *e.g. Toxic waste products etc.*
+
+**Biotechnology** is NOT new. It's been used extensively for:
+
+ **Classical Methods**
+- Fermentation.
+- Purified enzymes.
+- Chemically treated enzymes.
+
+**Molecular Biology Era**
+- Cloned genes.
+- Genetic engineering.
+- Protein engineering.
+- X-ray structures.
+
+**Genomics/post genomics era**
+- Metabolic engineering.
+- Synthetic biology.
+- Artificial organisms.
