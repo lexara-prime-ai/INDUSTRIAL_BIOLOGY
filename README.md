@@ -1,4 +1,5 @@
 
+
 # Industrial Biology
 ### Overview and Introduction
 
@@ -82,3 +83,15 @@ This maps nicely to the green chemistry agenda since industrial biotechnology ca
 - Metabolic engineering.
 - Synthetic biology.
 - Artificial organisms.
+
+## How Enzymes work
+### Catalysis 101
+Enzymes are biological catalysts that provide an alternative **reaction route** and **stabilize reaction intermediates** for an overall reaction.
+
+They're catalysts because they *reduce* the energy that's required to reach the **highest energy transition state** of the reaction.
+
+#### True Catalysts
+Enzymes are **NOT** consumed or permanently altered during the reaction.
+They do **NOT** alter the chemical equilibrium between the reactants and products.
+
+* Their role is to simply *speed up* the attainment of said equilibrium and accelerate the overall transition of reactants going to product.
